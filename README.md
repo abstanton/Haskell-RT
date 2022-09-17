@@ -1,5 +1,5 @@
-# Haskell_Ray-Tracing
-A Ray Tracer written in haskell. 
+# Haskell-RT
+A Ray Tracer written in Haskell. 
 Features: 
 - basic object primitives (sphere, cube, cylinder, plane) 
 - diffuse/specular lighting 
